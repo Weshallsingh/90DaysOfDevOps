@@ -10,6 +10,6 @@ Working professional with 7yrs exp in cloudops
 
 3 core DevOps skills you want to build:
 
-Linux troubleshooting
-Python
-CI/CD
+1. Linux troubleshooting
+2. Python
+3. CI/CD
